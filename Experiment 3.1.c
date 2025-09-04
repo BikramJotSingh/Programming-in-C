@@ -1,4 +1,4 @@
-/*Experiment:3.1 
+/*Experiment 3.1:Conditional Statements  
 1.WAP of c to check whether a number is even or odd.
 */
 #include<stdio.h>
@@ -18,3 +18,4 @@ int main()
 	}
 	return 0;
 }
+
