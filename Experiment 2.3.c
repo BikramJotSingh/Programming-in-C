@@ -1,4 +1,4 @@
-/*1. WAP a C program to calculate the Compound Interest by taking principle,rate and time from user.
+/*1. Write a C program to calculate the Compound Interest by taking principle,rate and time from user.
 formula
 CI=principle*(pow((1+rate/100),time))-principle
 */
@@ -22,6 +22,7 @@ int main()
 
 
 }
+
 
 
 
