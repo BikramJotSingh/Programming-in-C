@@ -1,5 +1,5 @@
 /*Experiment 2: Operators 
-1. WAP a C program to calculate the area and perimeter of a rectangle based on
+1. Write a C program to calculate the area and perimeter of a rectangle based on
 its length and width.
 */
 #include<stdio.h>
@@ -21,4 +21,5 @@ int main()
 	
 
 }
+
 
