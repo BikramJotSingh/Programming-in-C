@@ -1,10 +1,10 @@
-//1. WAP a C program to perform four arthmatical operations on two variables.
+//1. Write a C program to perform arthmatical operations on two variables.
 #include<stdio.h>
 #include<math.h>
 int main()
 {
 	int a,b,sum,sub,multiplication;
-	float division;
+	float division,modulas;
 	printf("Name - Bikram Jot Singh\nSAP ID - 590027095\nCourse-BCA\nBatch-5");
 	printf("\n.........................................\n");
 	printf("Enter a first number..................");
@@ -19,7 +19,10 @@ int main()
 	printf("The multiplication of two entered number is...........%d\n",multiplication);
 	division=a/b;
 	printf("The division of two entered number is....................%f\n",division);
+	modulas=a%b;
+	printf("The modulas of two entered number is....................%f\n",modulas);
 	return 0;
 
  } 
+
 
